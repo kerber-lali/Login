@@ -22,4 +22,4 @@ Além de todas as amostras prontas para execução do Compose listadas acima da 
 Contribuir
 Congratulamo-nos com exemplos que ajudam as pessoas a entender como usar o Docker Compose para aplicações comuns. Verifica a Contribution Guide para mais detalhes.
 
-link do repositório original: https://github.com/docker/awesome-compose
+
