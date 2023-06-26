@@ -1,5 +1,5 @@
-# Login
-
+# Sistema de login 
+#Alunos: Alana Fernandes; Eduardo Vaz; Ígor Detoni; Leonardo Alves; Thomas Jeferson
 #Vamos Começar
 
 Estas instruções irão ajudá-lo na fase inicial de criação e implantando amostras de aplicativos em contêineres com o Docker Compose.
